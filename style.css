@@ -36,6 +36,7 @@
 .hamburguer {
     display: none;
     cursor: pointer;
+    user-select: none;
 }
 
 .container-conteudo {
